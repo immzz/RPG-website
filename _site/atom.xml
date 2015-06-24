@@ -4,7 +4,7 @@
  <title>Thinny</title>
  <link href="http://camporez.com/atom.xml" rel="self"/>
  <link href="http://camporez.com/"/>
- <updated>2015-06-23T23:10:49-07:00</updated>
+ <updated>2015-06-23T23:14:03-07:00</updated>
  <id>http://camporez.com</id>
  <author>
    <name>Ian Camporez Brunelli</name>
@@ -21,7 +21,7 @@
 
 &lt;p&gt;Cosette is the main character of the french novel &lt;em&gt;Les Misérables&lt;/em&gt;, published in 1862 by &lt;em&gt;Victor Hugo&lt;/em&gt;.&lt;/p&gt;
 
-&lt;div&gt;&lt;img src=&quot;/media/2014-02-26-hello-cosette/cosette.jpg&quot; alt=&quot;Amanda Seyfried as Cosette on the 2012 movie.&quot; width=&quot;100%&quot; /&gt;
+&lt;div&gt;&lt;img src=&quot;/RPG-website/media/2014-02-26-hello-cosette/cosette.jpg&quot; alt=&quot;Amanda Seyfried as Cosette on the 2012 movie.&quot; width=&quot;100%&quot; /&gt;
 &lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Amanda Seyfried as Cosette on the 2012 movie.&lt;/blockquote&gt;&lt;/div&gt;
 
 &lt;p&gt;This new version of Thinny comes with mobile support and some bugfixes.&lt;/p&gt;
@@ -163,7 +163,7 @@ But now I&amp;#39;m migrating my blog to Jekyll, and also migrating the theme. W
 
 &lt;p&gt;Will output this:&lt;/p&gt;
 
-&lt;div&gt;&lt;img src=&quot;/media/2014-01-22-thinny-2/bianca.jpg&quot; alt=&quot;Image captions are supported out of the box. Brilliant!&quot; width=&quot;100%&quot; /&gt;
+&lt;div&gt;&lt;img src=&quot;/RPG-website/media/2014-01-22-thinny-2/bianca.jpg&quot; alt=&quot;Image captions are supported out of the box. Brilliant!&quot; width=&quot;100%&quot; /&gt;
 &lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Image captions are supported out of the box. Brilliant!&lt;/blockquote&gt;&lt;/div&gt;
 
 &lt;h3&gt;Table&lt;/h3&gt;
