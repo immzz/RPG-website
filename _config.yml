@@ -43,10 +43,10 @@ social:
     
 menu:
   - title:	Home
-    url:	/
+    url:	
     
   - title:	About
-    url:	/about
+    url:	about
     
 copyright:
   author:	Camporez
