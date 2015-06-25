@@ -4,7 +4,7 @@
  <title>Thinny</title>
  <link href="http://camporez.com/atom.xml" rel="self"/>
  <link href="http://camporez.com/"/>
- <updated>2015-06-24T17:44:33-07:00</updated>
+ <updated>2015-06-24T17:53:55-07:00</updated>
  <id>http://camporez.com</id>
  <author>
    <name>Ian Camporez Brunelli</name>
@@ -17,8 +17,13 @@
    <link href="http://camporez.com/blog/Early-Footages"/>
    <updated>2015-06-24T00:00:00-07:00</updated>
    <id>http://camporez.com/blog/Early-Footages</id>
-   <content type="html">&lt;p&gt;Early Footage: Rain at Night
-&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/9tcq1GHe0_4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+   <content type="html">&lt;blockquote&gt;
+&lt;p&gt;Early Footage: Rain at Night&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr&gt;
+
+&lt;iframe width=&quot;840&quot; height=&quot;630&quot; src=&quot;https://www.youtube.com/embed/9tcq1GHe0_4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 </content>
  </entry>
  
