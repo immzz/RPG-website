@@ -142,8 +142,10 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
+  json
   nokogiri
   rack (~> 1.1)
+  redcarpet
   rspec
 
 BUNDLED WITH
